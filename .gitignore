@@ -1,0 +1,6 @@
+# Ignore everything by default
+/*
+
+# Track only the LLM playground project
+!/.gitignore
+!/llm-playground/
